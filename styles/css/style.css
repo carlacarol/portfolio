@@ -1235,9 +1235,17 @@ body.light-mode .menuOpen h2 {
 footer {
     margin: 0%;
     font-family: 'DM Sans';
-    padding: 0.5vh;
+    padding: 5px;
     text-align: center;
     color: white;
     background-color: #8C1F28;
     display: block;
+}
+
+footer a {
+    font-weight: bolder;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
