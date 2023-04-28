@@ -1231,3 +1231,13 @@ body.light-mode .modal h2 {
 body.light-mode .menuOpen h2 {
     color: #F9F9F9 !important
 }
+
+footer {
+    margin: 0%;
+    font-family: 'DM Sans';
+    padding: 0.5vh;
+    text-align: center;
+    color: white;
+    background-color: #8C1F28;
+    display: block;
+}
